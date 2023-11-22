@@ -261,3 +261,17 @@ path{
     height: 30%;
     width: 100%;
 }
+
+
+.contactus{
+height: 100%;
+width: 100%;
+display: flex;
+justify-content: center;
+align-items: center;
+color: white;
+font-weight: bold;
+font-size: xx-large;
+background-color: rgba(134, 134, 134, 0.15);  
+
+}
